@@ -28,17 +28,15 @@ Here are some screenshots of the app:
 ### Home Screen
 <img src="https://github.com/user-attachments/assets/a13be276-e5be-4b00-96b2-6685b4e9cc15" width="300">
 
-### 
 <img src="https://github.com/user-attachments/assets/e1057b76-7203-4f8d-bfb7-b4dcac4810ff" width="300">
 
 <img src="https://github.com/user-attachments/assets/26bf5622-c8cc-4f88-b66f-dacf9bcaba97" width="300">
 
-### Wishlist
 <img src="https://github.com/user-attachments/assets/4e1862a6-137d-4a23-aebe-2cffee90b951" width="300">
 
 <img src="https://github.com/user-attachments/assets/7798a55c-c674-40f7-b84f-17b5d2f53f6b" width="300">
 
-### Payment Page
+### Electronic Page
 <img src="https://github.com/user-attachments/assets/5c1f0003-58ed-4a5c-a025-4f3b0a8427a1" width="300">
 
 ### clothes offer
