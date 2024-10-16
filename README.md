@@ -1,4 +1,3 @@
-# Grocery-App
 
 
 # Grocery App
@@ -21,13 +20,31 @@ The **Grocery App** is a mobile application designed to simplify the grocery sho
    git clone https://github.com/rahulitme/Grocery-App.git
 
 
-![WhatsApp Image 2024-10-16 at 23 28 40_b1a24312](https://github.com/user-attachments/assets/a13be276-e5be-4b00-96b2-6685b4e9cc15)
-![WhatsApp Image 2024-10-16 at 23 32 13_bf671d97](https://github.com/user-attachments/assets/e1057b76-7203-4f8d-bfb7-b4dcac4810ff)
-![WhatsApp Image 2024-10-16 at 23 32 40_3f85a67c](https://github.com/user-attachments/assets/26bf5622-c8cc-4f88-b66f-dacf9bcaba97)
-![WhatsApp Image 2024-10-16 at 23 33 03_72c8c4f5](https://github.com/user-attachments/assets/4e1862a6-137d-4a23-aebe-2cffee90b951)
-![WhatsApp Image 2024-10-16 at 23 33 23_a1e92625](https://github.com/user-attachments/assets/7798a55c-c674-40f7-b84f-17b5d2f53f6b)
-![WhatsApp Image 2024-10-16 at 23 34 07_ab5006ea](https://github.com/user-attachments/assets/5c1f0003-58ed-4a5c-a025-4f3b0a8427a1)
-![s1](https://github.com/user-attachments/assets/db2625e4-7757-4a5b-841d-af16914d1d9d)
-![cover1](https://github.com/user-attachments/assets/1a7c5f4d-a425-4001-be01-98e19e6f41b2)
-![WhatsApp Image 2024-10-16 at 23 32 40_3f85a67c](https://github.com/user-attachments/assets/6740a124-03a6-4dab-9169-78090146c341)
-![WhatsApp Image 2024-10-16 at 23 34 08_f5e3cba8](https://github.com/user-attachments/assets/a283b7c7-19c3-485e-a494-5148ebb9c649)
+# Grocery App
+
+## Screenshots
+Here are some screenshots of the app:
+
+### Home Screen
+<img src="https://github.com/user-attachments/assets/a13be276-e5be-4b00-96b2-6685b4e9cc15" width="300">
+
+### Product Listings
+<img src="https://github.com/user-attachments/assets/e1057b76-7203-4f8d-bfb7-b4dcac4810ff" width="300">
+
+### Shopping Cart
+<img src="https://github.com/user-attachments/assets/26bf5622-c8cc-4f88-b66f-dacf9bcaba97" width="300">
+
+### Wishlist
+<img src="https://github.com/user-attachments/assets/4e1862a6-137d-4a23-aebe-2cffee90b951" width="300">
+
+### Order History
+<img src="https://github.com/user-attachments/assets/7798a55c-c674-40f7-b84f-17b5d2f53f6b" width="300">
+
+### Payment Page
+<img src="https://github.com/user-attachments/assets/5c1f0003-58ed-4a5c-a025-4f3b0a8427a1" width="300">
+
+### Repeated Image
+<img src="https://github.com/user-attachments/assets/6740a124-03a6-4dab-9169-78090146c341" width="300">
+
+### Another Screenshot
+<img src="https://github.com/user-attachments/assets/a283b7c7-19c3-485e-a494-5148ebb9c649" width="300">
