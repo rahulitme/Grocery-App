@@ -31,13 +31,11 @@ Here are some screenshots of the app:
 ### 
 <img src="https://github.com/user-attachments/assets/e1057b76-7203-4f8d-bfb7-b4dcac4810ff" width="300">
 
-### Shopping Cart
 <img src="https://github.com/user-attachments/assets/26bf5622-c8cc-4f88-b66f-dacf9bcaba97" width="300">
 
 ### Wishlist
 <img src="https://github.com/user-attachments/assets/4e1862a6-137d-4a23-aebe-2cffee90b951" width="300">
 
-### Order History
 <img src="https://github.com/user-attachments/assets/7798a55c-c674-40f7-b84f-17b5d2f53f6b" width="300">
 
 ### Payment Page
