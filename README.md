@@ -36,8 +36,8 @@ Here are some screenshots of the app:
 
 <img src="https://github.com/user-attachments/assets/7798a55c-c674-40f7-b84f-17b5d2f53f6b" width="300">
 
-### Electronic Page
+### Electronic Offer
 <img src="https://github.com/user-attachments/assets/5c1f0003-58ed-4a5c-a025-4f3b0a8427a1" width="300">
 
-### clothes offer
+clothes offer
 <img src="https://github.com/user-attachments/assets/a283b7c7-19c3-485e-a494-5148ebb9c649" width="300">
