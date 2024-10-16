@@ -28,7 +28,7 @@ Here are some screenshots of the app:
 ### Home Screen
 <img src="https://github.com/user-attachments/assets/a13be276-e5be-4b00-96b2-6685b4e9cc15" width="300">
 
-### Product Listings
+### 
 <img src="https://github.com/user-attachments/assets/e1057b76-7203-4f8d-bfb7-b4dcac4810ff" width="300">
 
 ### Shopping Cart
@@ -43,8 +43,5 @@ Here are some screenshots of the app:
 ### Payment Page
 <img src="https://github.com/user-attachments/assets/5c1f0003-58ed-4a5c-a025-4f3b0a8427a1" width="300">
 
-### Repeated Image
-<img src="https://github.com/user-attachments/assets/6740a124-03a6-4dab-9169-78090146c341" width="300">
-
-### Another Screenshot
+### clothes offer
 <img src="https://github.com/user-attachments/assets/a283b7c7-19c3-485e-a494-5148ebb9c649" width="300">
